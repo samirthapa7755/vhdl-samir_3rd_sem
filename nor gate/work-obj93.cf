@@ -1,0 +1,7 @@
+v 4
+file . "nor_gate_tb.vhd" "16d3983669baa822d6cb60ad2bfedba200f878cc" "20241227100015.807":
+  entity nor_gate_tb at 1( 0) + 0 on 13;
+  architecture testbench of nor_gate_tb at 7( 90) + 0 on 14;
+file . "nor_gate.vhd" "50f7bfffa3814155412c362e30673399da25198b" "20241227100010.536":
+  entity nor_gate at 1( 0) + 0 on 11;
+  architecture behavior of nor_gate at 12( 185) + 0 on 12;

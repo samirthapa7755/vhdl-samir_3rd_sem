@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Dec 27 10:01:51 2024
+[*]
+[dumpfile] "C:\samir\vhdl\nor gate\nor_gate.vcd"
+[dumpfile_mtime] "Fri Dec 27 10:00:54 2024"
+[dumpfile_size] 534
+[savefile] "C:\samir\vhdl\nor gate\nor gate.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-23.502890 10400000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] nor_gate_tb.
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+nor_gate_tb.a
+nor_gate_tb.b
+@29
+nor_gate_tb.y
+[pattern_trace] 1
+[pattern_trace] 0

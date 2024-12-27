@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Dec 27 10:05:02 2024
+[*]
+[dumpfile] "C:\samir\vhdl\Xor\xor_gate.vcd"
+[dumpfile_mtime] "Fri Dec 27 10:04:13 2024"
+[dumpfile_size] 542
+[savefile] "C:\samir\vhdl\Xor\xor gate.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-23.502890 10630000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] xor_gate_tb.
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+xor_gate_tb.a
+xor_gate_tb.b
+@29
+xor_gate_tb.y
+[pattern_trace] 1
+[pattern_trace] 0
