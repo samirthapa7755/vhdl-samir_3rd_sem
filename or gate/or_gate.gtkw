@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Dec 27 06:12:38 2024
+[*]
+[dumpfile] "C:\samir\vhdl\or gate\or_gate.vcd"
+[dumpfile_mtime] "Fri Dec 27 06:11:32 2024"
+[dumpfile_size] 533
+[savefile] "C:\samir\vhdl\or gate\or_gate.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-23.502890 20020000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] or_gate_tb.
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@29
+or_gate_tb.a
+@28
+or_gate_tb.b
+or_gate_tb.y
+[pattern_trace] 1
+[pattern_trace] 0
