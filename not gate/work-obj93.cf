@@ -1,0 +1,7 @@
+v 4
+file . "not_gate_tb.vhd" "e8500674f18b9f4841ffbc3a5e7162a1ca46fe0f" "20241227080537.254":
+  entity not_gate_tb at 1( 0) + 0 on 17;
+  architecture testbench of not_gate_tb at 7( 90) + 0 on 18;
+file . "not_gate.vhd" "24d322b4b5bc85e029a2c88388307ca78f1a980e" "20241227080524.185":
+  entity not_gate at 1( 0) + 0 on 15;
+  architecture behavioral of not_gate at 9( 146) + 0 on 16;
