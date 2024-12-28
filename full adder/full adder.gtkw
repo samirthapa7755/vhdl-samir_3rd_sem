@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Dec 28 10:48:19 2024
+[*]
+[dumpfile] "C:\samir\vhdl\full adder\full_adder.vcd"
+[dumpfile_mtime] "Sat Dec 28 10:46:50 2024"
+[dumpfile_size] 1336
+[savefile] "C:\samir\vhdl\full adder\full adder.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-24.502890 38700000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+full_adder_tb.a
+full_adder_tb.b
+full_adder_tb.cin
+full_adder_tb.cout
+full_adder_tb.sum
+[pattern_trace] 1
+[pattern_trace] 0
