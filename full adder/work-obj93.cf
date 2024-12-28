@@ -1,10 +1,7 @@
 v 4
-file . "half_adder.vhd" "15ea4f839b62e7f860a203e8bbdf2cc9325c1aab" "20241228104325.310":
-  entity half_adder at 1( 0) + 0 on 15;
-  architecture behavioral of half_adder at 11( 217) + 0 on 16;
-file . "full_adder.vhd" "f65613208937a5bb652e7462db1d6b940f873de5" "20241228104342.105":
-  entity full_adder at 1( 0) + 0 on 17;
-  architecture behavioral of full_adder at 12( 248) + 0 on 18;
-file . "full_adder_tb.vhd" "59555173b26a1b30b91b9a5cf8a27287b3caeb0a" "20241228104349.218":
-  entity full_adder_tb at 1( 0) + 0 on 19;
-  architecture behavioral of full_adder_tb at 7( 94) + 0 on 20;
+file . "full_adder_tb.vhd" "04ad98d1e5b063b245e6f1e04f6edd1602cb392b" "20241228105951.683":
+  entity full_adder_tb at 1( 0) + 0 on 13;
+  architecture behavioral of full_adder_tb at 7( 94) + 0 on 14;
+file . "full_adder.vhd" "cdfa6d981e05c8c1b32c0054997bdf29bcd92de1" "20241228105939.897":
+  entity full_adder at 1( 0) + 0 on 11;
+  architecture behavioral of full_adder at 14( 263) + 0 on 12;
